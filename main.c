@@ -11,5 +11,8 @@ Initial Security()
 }
 
 
-
+feature1()
+{
+  e=2,f=3;
+}
 }
